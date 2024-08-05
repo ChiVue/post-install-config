@@ -203,4 +203,4 @@ Example of Adding a New Help Topic
 <img src="https://i.imgur.com/S8013HP.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <p>
 <p/>
-This is the conclusion of the lab
+End of the lab
